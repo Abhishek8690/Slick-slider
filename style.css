@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+}
+body .slider .slick-list {
+  position: relative;
+}
+body .slider .slick-list img {
+  width: 100%;
+}
+body .slider .slick-next {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: 1;
+}
+body .slider .slick-prev {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  z-index: 1;
+}/*# sourceMappingURL=style.css.map */
